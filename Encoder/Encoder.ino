@@ -32,7 +32,7 @@
 /*
  *  Encoder ROSSERIAL Node PUBLISHER test app
  *
- *  Copyright 2021  RoboPeak Team
+ *  Copyright 2021  Micropolis Team
  *  http://www.micropolis.ae
  * 
  */
